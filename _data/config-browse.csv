@@ -1,4 +1,6 @@
 field,display_name,btn,hidden
 date,Date,
-creator,Creator,
 subject,,true
+county,,true
+location,,true
+district,,true
