@@ -1,0 +1,64 @@
+{
+    "title": {
+        "media": {
+          "url": "/mtech/objects/58856_Thompson_Falls_Quad_With_Annotations.jpg",
+          "caption": "J.T. PARDEE - THOMPSON FALLS QUADRANGLE WITH ANNOTATIONS",
+          "credit": "MTech CollectionBuilder SA Demo"
+        },
+        "text": {
+          "headline": "MTech CollectionBuilder SA Demo Timeline",
+          "text": "A CollectionBuilder-SA demo for MTech."
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "/mtech/objects/small/58856_thompson_falls_quad_with_annotations_sm.jpg",
+          "caption": "J.T. PARDEE - THOMPSON FALLS QUADRANGLE WITH ANNOTATIONS",
+          "link": "https://dcnb.github.io/mtech/items/58856.html",
+          "credit": "MTech CollectionBuilder SA Demo"
+        },
+        "start_date": { "year": "1937"
+        },
+        "text": {
+          "headline": "J.T. PARDEE - THOMPSON FALLS QUADRANGLE WITH ANNOTATIONS"
+        }
+      },{
+        "media": {
+          "url": "/mtech/objects/small/58857_bonner_quad_with_annotations_sm.jpg",
+          "caption": "J.T. PARDEE - BONNER QUADRANGLE WITH ANNOTATIONS",
+          "link": "https://dcnb.github.io/mtech/items/58857.html",
+          "credit": "MTech CollectionBuilder SA Demo"
+        },
+        "start_date": { "year": "1903"
+        },
+        "text": {
+          "headline": "J.T. PARDEE - BONNER QUADRANGLE WITH ANNOTATIONS"
+        }
+      },{
+        "media": {
+          "url": "/mtech/objects/small/58862_t6n_r14w_principal_meridian_mt_pt_1_sm.jpg",
+          "caption": "J.T. PARDEE - TOWNSHIP NO. 6 NORTH, RANGE NO. 14 WEST OF THE PRINCIPAL MERIDIAN, MONTANA",
+          "link": "https://dcnb.github.io/mtech/items/58862.html",
+          "credit": "MTech CollectionBuilder SA Demo"
+        },
+        "start_date": { "year": "1916"
+        },
+        "text": {
+          "headline": "J.T. PARDEE - TOWNSHIP NO. 6 NORTH, RANGE NO. 14 WEST OF THE PRINCIPAL MERIDIAN, MONTANA"
+        }
+      },{
+        "media": {
+          "url": "/mtech/objects/small/58867_trout_creek_quad_glacial_lake_msla_interpretation_sm.jpg",
+          "caption": "J.T. PARDEE - TROUT CREEK QUADRANGLE MAP SHOWING INTERPRETED HIGH STAGE OF GLACIAL LAKE MISSOULA",
+          "link": "https://dcnb.github.io/mtech/items/58867.html",
+          "credit": "MTech CollectionBuilder SA Demo"
+        },
+        "start_date": { "year": "1936"
+        },
+        "text": {
+          "headline": "J.T. PARDEE - TROUT CREEK QUADRANGLE MAP SHOWING INTERPRETED HIGH STAGE OF GLACIAL LAKE MISSOULA"
+        }
+      }
+    ]
+}

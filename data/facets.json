@@ -1,0 +1,110 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+                "topographic": 3,
+                "survey": 1
+            }
+        },
+        {
+            "field": "map_type",
+            "terms": { 
+                "topographic": 3,
+                "survey": 1
+            }
+        },
+        {
+            "field": "county",
+            "terms": { 
+                "granite": 2,
+                "ravalli": 1,
+                "lincoln": 1,
+                "sanders": 1,
+                "missoula": 1,
+                "various": 1
+            }
+        },
+        {
+            "field": "location",
+            "terms": { 
+                "cabinet": 1,
+                "prospect creek": 1,
+                "silver butte": 1,
+                "thompson river": 1,
+                "alps": 1,
+                "copper cliff": 1,
+                "cramer creek": 1,
+                "missoula": 1,
+                "petty creek": 1,
+                "rock creek": 1,
+                "seeley": 1,
+                "three mile": 1,
+                "philipsburg*": 1,
+                "antelope creek": 1,
+                "moose lake": 1,
+                "silver lake": 1,
+                "trout creek": 1,
+                "white pine": 1
+            }
+        },
+        {
+            "field": "district",
+            "terms": { 
+                "cabinet": 1,
+                "prospect creek": 1,
+                "silver butte": 1,
+                "thompson river": 1,
+                "alps": 1,
+                "copper cliff": 1,
+                "cramer creek": 1,
+                "missoula": 1,
+                "petty creek": 1,
+                "rock creek": 1,
+                "seeley": 1,
+                "three mile": 1,
+                "philipsburg*": 1,
+                "antelope creek": 1,
+                "moose lake": 1,
+                "silver lake": 1,
+                "trout creek": 1,
+                "white pine": 1
+            }
+        },
+        {
+            "field": "map_scale",
+            "terms": { 
+                "1\" = 2 miles": 2,
+                "40 chains per inch (1\" = 2640')": 1,
+                "1\" = 3 miles": 1
+            }
+        },
+        {
+            "field": "township",
+            "terms": { 
+                "23n": 1,
+                "12n": 1,
+                "06n": 1,
+                "20n": 1
+            }
+        },
+        {
+            "field": "range",
+            "terms": { 
+                "208w": 1,
+                "19w": 1,
+                "14w": 1,
+                "32w": 1
+            }
+        },
+        {
+            "field": "section",
+            "terms": { 
+                "18": 2,
+                "29": 1,
+                "21": 1
+            }
+        }
+        
+    ]
+}
